@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#navegation{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 100px;
+}
+#cont_nav{
+    display: flex;
+}
+#show-case0ne{
+    display: flex;
+    overflow: hidden;
+}
+.categories{
+    text-decoration: none;
+}
+.image img{
+    position: relative;
+    width: 100%;
+}
+.text0{
+    position: absolute;
+    top: 500px;
+    text-align: center;
+    padding: 30px;
+}
